@@ -1,7 +1,7 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: Registration
+type: registration
+image: /img/registration-jumbotron.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -52,13 +52,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/registration-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/registration-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/registration-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
@@ -68,7 +68,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+full_image: /img/registration-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
