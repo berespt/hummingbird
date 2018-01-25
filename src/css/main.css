@@ -85,3 +85,47 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+@import '../../node_modules/font-awesome/css/font-awesome.min.css';
+
+.menu {
+  min-height: 4rem;
+  max-height: 0;
+  transition: max-height 1s;
+}
+  
+.burger:checked ~ .menu {  
+   max-height: 25rem;
+   padding-top: 50px;
+ }
+
+.burger:not(:checked) ~ .menu {
+  display: none;
+}
+
+ @media (--breakpoint-not-small) {
+  .burger:not(:checked) ~ .menu {
+    display: flex;
+   }
+ }
+
+ .burger {
+  cursor: pointer;
+  opacity: 0; 
+  z-index: 2;
+  right: 20px;
+  top: 25px;
+  width: 1.33333333em;
+  height: 1.33333333em;
+  line-height: .75em;
+  vertical-align: -15%;
+  position: absolute; 
+}
+
+.burger-icon {
+  cursor: pointer;
+  z-index: 1;
+  right: 20px;
+  top: 25px;
+  position: absolute; 
+}
