@@ -29,7 +29,7 @@ export default class SchedulePreview extends React.Component {
       image = window.parent.location.protocol + "//" + window.parent.location.host + image;
     }
     
-    const scheduleEntry = entry.getIn(["data", "scheduleEntry"]);
+    const scheduleEntry = entry.getIn(["data", "schedule"]);
     const scheduleItems = scheduleEntry ? scheduleEntry.toJS() : [];
     
     return <div>
