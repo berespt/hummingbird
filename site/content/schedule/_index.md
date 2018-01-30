@@ -1,6 +1,6 @@
 ---
 title: "Schedule"
-image: /img/about-jumbotron.jpg
+image: /img/schedule-jumbotron.png
 schedule:
   - heading: "Shade-grown coffee"
     text: >
