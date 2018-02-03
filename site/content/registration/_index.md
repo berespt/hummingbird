@@ -30,14 +30,13 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
   description: >
     Hummingbird Blues has been going on since 2015. It is a blues dancing
     exchange based in Cracow, where we dance mad, chill hard and share crazy.
     There is no regular classes and no competitions. Instead we have lots of
     daytime activities, lots of music and low entrance fee.
+  heading: What we offer
 pricing:
-  heading: Pricing
   description: >-
     Since we want to make our event as inclusive as possible, we try to keep the
     ticket prices low. We also have a desire to keep the cozy atmosphere here,
@@ -53,31 +52,40 @@ pricing:
     However cool it is to triple the suggested costs of the event and have many
     live bands, foods and floors that don’t leave splinters in your feet, HB2018
     is gonna be awesome regardless of its price!
+  heading: Pricing
   plans:
-    - description: If I knew you were coming I would bake a... This one gives you a TICKET FOR THE EVENT.
+    - description: >-
+        If I knew you were coming I would bake a... This one gives you a TICKET
+        FOR THE EVENT.
       items:
-        - ticket for the event
+        - Ticket for the event
         - Saturday lunch
         - <3
       plan: Cheesecake with sour cream
       price: '20'
-    - description: We heard the dancers from the UK like it but you don't have to be British to like this perk!
+    - description: >-
+        We heard the dancers from the UK like it but you don't have to be
+        British to like this perk!
       items:
-        - ticket for the event
+        - Ticket for the event
         - Saturday lunch
         - HB bag
-      plan: "Apple pie with custard"
+      plan: Apple pie with custard
       price: '25'
-    - description: The desserts may make you feel cold. To get the balance back, raise the temperature by dancing like crazy in your brand new T-shirt!
+    - description: >-
+        The desserts may make you feel cold. To get the balance back, raise the
+        temperature by dancing like crazy in your brand new T-shirt!
       items:
-        - ticket for the event
+        - Ticket for the event
         - Saturday lunch
         - HB T-shirt
       plan: Lemon tart with ice-cream
       price: '35'
-    - description: Now it's getting serious, and very bluesy. As bluesy as you will be after taking a private blues dancing lesson with David C. Tritel!
+    - description: >-
+        Now it's getting serious, and very bluesy. As bluesy as you will be
+        after taking a private blues dancing lesson with David C. Tritel!
       items:
-        - ticket for the event
+        - Ticket for the event
         - Saturday lunch
         - HB Bag
         - HB T-shirt
