@@ -1,6 +1,5 @@
 ---
 title: Registration
-type: registration
 image: /img/registration-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -39,16 +38,27 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Hummingbird Blues has been going on since 2015. It is a blues dancing
+    exchange based in Cracow, where we dance mad, chill hard and share crazy.
+    There is no regular classes and no competitions. Instead we have lots of
+    daytime activities, lots of music and low entrance fee.
 pricing:
-  heading: Monthly subscriptions
+  heading: Pricing
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Since we want to make our event as inclusive as possible, we try to keep the
+    ticket prices low. We also have a desire to keep the cozy atmosphere here,
+    so we could connect with everyone and still have time for dancing.
+
+
+    That is why we decided to crowdfund this event. You can support our exchange
+    by donating some more money or buying perks. Thanks to extra donations we
+    are able to boost up our event with more bands, better dancefloors, and
+    generally more less dance-oriented goodies.
+
+
+    However cool it is to triple the suggested costs of the event and have many
+    live bands, foods and floors that don’t leave splinters in your feet, HB2018
+    is gonna be awesome regardless of its price!
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -72,5 +82,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
