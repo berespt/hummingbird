@@ -54,26 +54,35 @@ pricing:
     live bands, foods and floors that don’t leave splinters in your feet, HB2018
     is gonna be awesome regardless of its price!
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: If I knew you were coming I would bake a... This one gives you a TICKET FOR THE EVENT.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - ticket for the event
+        - Saturday lunch
+        - <3
+      plan: Cheesecake with sour cream
+      price: '20'
+    - description: We heard the dancers from the UK like it but you don't have to be British to like this perk!
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - ticket for the event
+        - Saturday lunch
+        - HB bag
+      plan: "Apple pie with custard"
+      price: '25'
+    - description: The desserts may make you feel cold. To get the balance back, raise the temperature by dancing like crazy in your brand new T-shirt!
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - ticket for the event
+        - Saturday lunch
+        - HB T-shirt
+      plan: Lemon tart with ice-cream
+      price: '35'
+    - description: Now it's getting serious, and very bluesy. As bluesy as you will be after taking a private blues dancing lesson with David C. Tritel!
+      items:
+        - ticket for the event
+        - Saturday lunch
+        - HB Bag
+        - HB T-shirt
+        - Private Lesson
+      plan: Gingerbread cake with whiskey caramel
+      price: '100'
 ---
 
