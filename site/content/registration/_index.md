@@ -8,7 +8,7 @@ intro:
         Great parties.
 
         Live music, DJs and charming venues in a centre of beautiful medieval
-        city of Kraków.
+        city of Cracow.
     - image: /img/illustrations-coffee-gear.svg
       text: >
         Skill sharing!
