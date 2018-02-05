@@ -3,19 +3,19 @@ title: Registration
 image: /img/registration-jumbotron.jpg
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/bands.jpg
       text: >
         Great parties.
 
         Live music, DJs and charming venues in a centre of beautiful medieval
         city of Cracow.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/skillsharing.png
       text: >
         Skill sharing!
 
         Our event is not only about dancing, we want to hang out together during
         a day. Part of that will be skill sharing sessions and other activities.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/cooking.jpg
       text: >-
         Let's cook together!
 
