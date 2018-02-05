@@ -1,45 +1,29 @@
 ---
 title: "Schedule"
 image: /img/schedule-jumbotron.png
+blurb:
+  text: >
+    Hummingbird Blues has been going on since 2015. It is a blues dancing
+    exchange based in Cracow, where we dance mad, chill hard and share crazy.
+    There is no regular classes and no competitions. Instead we have lots of
+    daytime activities, lots of music and low entrance fee.
+  heading: What to expect
 schedule:
-  - heading: "Shade-grown coffee"
+  - heading: "Great parties"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      Live music, DJs and charming venues in a centre of beautiful medieval
+      city of Cracow.
+    imageUrl: "/img/bands.jpg"
+  - heading: "Skill sharing"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Our event is not only about dancing, we want to hang out together during
+      a day. Part of that will be skill sharing sessions and other activities.
+    imageUrl: "/img/skillsharing.png"
+  - heading: "Let's cook together!"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      It already became our tradition. Saturday meal is an excellent
+      opportunity to get to know each other. Whether you are a vegan or a meat
+      lover, you will find something for yourself. There will be a number of
+      different options to choose from.
+    imageUrl: "/img/cooking.jpg"
 ---

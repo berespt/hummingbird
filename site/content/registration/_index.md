@@ -1,34 +1,6 @@
 ---
 title: Registration
 image: /img/registration-jumbotron.jpg
-intro:
-  blurbs:
-    - image: /img/bands.jpg
-      text: >
-        Great parties.
-
-        Live music, DJs and charming venues in a centre of beautiful medieval
-        city of Cracow.
-    - image: /img/skillsharing.png
-      text: >
-        Skill sharing!
-
-        Our event is not only about dancing, we want to hang out together during
-        a day. Part of that will be skill sharing sessions and other activities.
-    - image: /img/cooking.jpg
-      text: >-
-        Let's cook together!
-
-        It already became our tradition. Saturday meal is an excellent
-        opportunity to get to know each other. Whether you are a vegan or a meat
-        lover, you will find something for yourself. There will be a number of
-        different options to choose from.
-  description: >
-    Hummingbird Blues has been going on since 2015. It is a blues dancing
-    exchange based in Cracow, where we dance mad, chill hard and share crazy.
-    There is no regular classes and no competitions. Instead we have lots of
-    daytime activities, lots of music and low entrance fee.
-  heading: What to expect
 pricing:
   description: >-
     Since we want to make our event as inclusive as possible, we try to keep the
