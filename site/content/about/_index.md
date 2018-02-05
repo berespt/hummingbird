@@ -1,6 +1,6 @@
 ---
-title: "Schedule"
-image: /img/schedule-jumbotron.png
+title: "About us"
+image: /img/about-jumbotron.png
 blurb:
   text: >
     Hummingbird Blues has been going on since 2015. It is a blues dancing
@@ -8,7 +8,7 @@ blurb:
     There is no regular classes and no competitions. Instead we have lots of
     daytime activities, lots of music and low entrance fee.
   heading: What to expect
-schedule:
+items:
   - heading: "Great parties"
     text: >
       Live music, DJs and charming venues in a centre of beautiful medieval
