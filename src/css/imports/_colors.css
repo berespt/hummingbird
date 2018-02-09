@@ -4,11 +4,19 @@
   color: var(--primary);
 }
 
+.primary-alpha {
+  color: var(--primary-alpha);
+}
+
 .highlight {
   color: --var(--highlight);
 }
 
 .white {
+  color: var(--white);
+}
+
+.white-alpha {
   color: var(--white);
 }
 
@@ -40,12 +48,20 @@
   background-color: var(--primary);
 }
 
+.bg-primary-alpha {
+  background-color: var(--primary-alpha);
+}
+
 .bg-highlight {
   background-color: --var(--highlight);
 }
 
 .bg-white {
   background-color: var(--white);
+}
+
+.bg-white-alpha {
+  background-color: var(--white-alpha);
 }
 
 .bg-off-white {
@@ -76,5 +92,19 @@
   padding: 0 var(--spacing-small);
   & :first-child {
     box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
+  }
+}
+
+.bg-fix-primary-alpha {
+  padding: 0 var(--spacing-small);
+  & :first-child {
+    box-shadow: var(--spacing-small) 0 0 var(--primary-alpha), -var(--spacing-small) 0 0 var(--primary-alpha);
+  }
+}
+
+.bg-fix-white-alpha {
+  padding: 0 var(--spacing-small);
+  & :first-child {
+    box-shadow: var(--spacing-small) 0 0 var(--white-alpha), -var(--spacing-small) 0 0 var(--white-alpha);
   }
 }
