@@ -11,16 +11,13 @@
 		<i class="fa fa-bars fa-lg"></i>
 	</span>
 	<!-- Primary Nav -->
+	{{ $currentPage := . }}
 	<ul class="overflow-hidden menu flex b grey-3 flex-row-ns flex-column">
-		<li><a href="/" class="pa3 no-underline db">Home</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">News</a></li>
-
-		<li><a href="/registration" class="pa3 no-underline db">Registration</a></li>
-
-		<li><a href="/about" class="pa3 no-underline db">About</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+		{{ range .Site.Menus.main }}
+		<li><a href="{{ .URL }}" class="pa3 no-underline db
+			{{ if $currentPage.IsMenuCurrent "main" .}}active{{ end }}">{{ .Name }}</a>
+		</li>
+		{{ end }}
 	</ul>
 
 </nav>

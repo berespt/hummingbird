@@ -13,11 +13,10 @@
 			<div>
 				<h3 class="f4 b lh-title mb1 primary">Hummingbird blues</h3>
 				<ul class="mb3">
-					<li><a href="/" class="link">Home</a></li>
-					<li><a href="/registration" class="link">Registration</a></li>
-					<li><a href="/about" class="link">About</a></li>
-					<li><a href="/post" class="link">News</a></li>
-					<li><a href="/contact" class="link">Contact</a></li>
+					{{ $currentPage := . }}
+					{{ range .Site.Menus.main }}
+						<li><a href="{{ .URL }}" class="link">{{ .Name }}</a></li>
+					{{ end }}
 				</ul>
 			</div>
 

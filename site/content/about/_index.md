@@ -1,6 +1,7 @@
 ---
 title: "About us"
 image: /img/about-jumbotron.png
+weight: 300
 blurb:
   text: >
     Hummingbird Blues has been going on since 2015. It is a blues dancing

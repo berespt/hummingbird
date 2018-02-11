@@ -1,6 +1,7 @@
 ---
 title: Contact
 logo: /img/logo.svg
+weight: 400
 contact_entries:
   - heading: Email address
     text: 'bluesinkrakow@gmail.com '
