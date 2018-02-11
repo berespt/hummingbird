@@ -1,7 +1,6 @@
 ---
 title: Registration
-image: /img/registration-jumbotron.jpg
-weight: 200
+image: ''
 pricing:
   description: >-
     Since we want to make our event as inclusive as possible, we try to keep the
