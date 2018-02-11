@@ -1,7 +1,7 @@
 ---
 title: "Hummingbird Blues"
 subtitle: Come by to Krakow and join us in the three days and two nights non-stop dancing party!
-image: /img/home-jumbotron.jpg
+image: /img/shadows_blue.jpg
 blurb:
     heading: Why Hummingbird?
     text: "Like our mascot, the Hummingbird – the most restless of all birds, we will be dancing without any breaks: from Friday evening, through parties, afterparties, daytime activities and meals together, until Monday morning."
