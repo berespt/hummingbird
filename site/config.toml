@@ -4,13 +4,6 @@ title = "Homepage"
 sectionPagesMenu = "main"
 
 [[menu.main]]
-    name = "News"
-    title = "News"
-    weight = 100
-    identifier = "post"
-    url = "/post/"
-
-[[menu.main]]
     name = "Home"
     title = "Hummingbird Blues"
     weight = 1
