@@ -1,6 +1,6 @@
 ---
 title: "About us"
-image: /img/about-jumbotron.png
+image: ''
 weight: 300
 blurb:
   text: >

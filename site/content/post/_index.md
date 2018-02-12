@@ -1,5 +1,5 @@
 ---
 title: "News"
-image: /img/blog-index.jpg
+image: ''
 weight: 100
 ---
