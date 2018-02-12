@@ -1,5 +1,6 @@
 ---
-title: "News"
-image: /img/blog-index.jpg
+title: Newss
 weight: 100
+image: /img/blog-index.jpg
 ---
+
