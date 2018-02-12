@@ -25,6 +25,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
+          - {label: "Weight", name: "weight", widget: "hidden", default: 1}
           - {label: Image, name: image, widget: image, required: false}
           - {label: "Blurb", name: blurb, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
@@ -41,6 +42,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "contact"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "Weight", name: "weight", widget: "hidden", default: 1}
           - {label: Logo, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
           - label: Contact Entries
@@ -58,6 +60,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "registration"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "Weight", name: "weight", widget: "hidden", default: 1}
           - {label: Image, name: image, widget: image, required: false}
           - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: markdown}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
       - file: "site/content/about/_index.md"
@@ -65,6 +68,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "about"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: "Weight", name: "weight", widget: "hidden", default: 1}
           - {label: Image, name: image, widget: image, required: false}
           - {label: "Blurb", name: blurb, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
