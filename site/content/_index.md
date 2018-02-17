@@ -20,7 +20,8 @@ about:
   text: >-
     Hummingbird Blues has been going on since 2015. It is a blues dancing
     exchange based in Cracow, where we dance mad, chill hard and share crazy.
-    There is no regular classes and no competitions. Instead we have lots of
-    daytime activities, lots of music and low entrance fee.
+    There is no regular classes and no competitions, instead we have lots of
+    daytime activities and lots of great music. The event is mainly donation -
+    based, as we want to keep it inclusive.
 ---
 
