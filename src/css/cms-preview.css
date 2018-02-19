@@ -1,0 +1,9 @@
+/* Fix for black background under iframe in preview pane.
+   This is caused by _typography.css adding a background-color to the html tag.
+   I'm not sure if it's possible to delete it from original file,
+   without potentially spoiling the main styles.
+   Hence adding it just for CMS preview.
+*/
+html {
+    background-color: inherit;
+}
