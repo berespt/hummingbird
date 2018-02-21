@@ -53,15 +53,5 @@ pricing:
         - HB T-shirt
       plan: Chocolate cake
       price: '50'
-    - description: >-
-        Now it's getting serious, and very bluesy. As bluesy as you will be
-        after taking a private blues dancing lesson with David C. Tritel!
-      items:
-        - Ticket for the event
-        - HB Bag
-        - HB T-shirt
-        - Private Lesson
-      plan: Gingerbread cake with whiskey caramel
-      price: '100'
 ---
 
