@@ -14,6 +14,7 @@ blurb:
 intro:
   heading: 'Kraków, 10-13 August'
   text: Registration and schedule will come soon.
+  video: "https://www.youtube.com/embed/hm0WhUQ-UmE?rel=0&amp;showinfo=0"
 about:
   heading: About us
   image: /img/about-jumbotron.png

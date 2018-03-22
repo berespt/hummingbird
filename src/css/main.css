@@ -113,10 +113,10 @@
   cursor: pointer;
   opacity: 0; 
   z-index: 2;
-  right: 20px;
-  top: 25px;
-  width: 1.33333333em;
-  height: 1.33333333em;
+  right: 26px;
+  top: 26px;
+  width: 2em;
+  height: 2em;
   line-height: .75em;
   vertical-align: -15%;
   position: absolute; 
@@ -125,7 +125,7 @@
 .burger-icon {
   cursor: pointer;
   z-index: 1;
-  right: 20px;
-  top: 25px;
+  right: 26px;
+  top: 26px;
   position: absolute; 
 }
