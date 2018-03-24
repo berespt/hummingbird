@@ -2,7 +2,10 @@
 title: Registration
 weight: 200
 image: ''
-pricing:
+intro:
+  heading: Registration
+  formButtonText: Registration form
+  formButtonLink: "https://docs.google.com/forms/d/e/1FAIpQLSdZs_UEZDMuc-fJAL8fUC6ZiHghly0fDCa0BeNJUql7yy9rNQ/viewform"
   description: >-
     Since we want to make our event as inclusive as possible, we try to keep the
     ticket prices low. We also have a desire to keep the cozy atmosphere here,
@@ -18,7 +21,9 @@ pricing:
     However cool it is to triple the suggested costs of the event and have many
     live bands, foods and floors that don’t leave splinters in your feet, HB2018
     is gonna be awesome regardless of its price!
-  heading: Pricing
+pricing:
+  heading: Perks
+  description: ""
   plans:
     - description: >-
         If I knew you were coming I would bake a... This one gives you a TICKET
@@ -35,23 +40,15 @@ pricing:
         - Ticket for the event
         - HB bag
       plan: Apple pie with custard
-      price: '25'
+      price: '30'
     - description: >-
         The desserts may make you feel cold. To get the balance back, raise the
         temperature by dancing like crazy in your brand new T-shirt!
       items:
         - Ticket for the event
         - HB T-shirt
+        - HB bag
       plan: Lemon tart with ice-cream
-      price: '35'
-    - description: >-
-        There are no words in this world to comment on a chocolate cake... we
-        can only add a cherry on top!
-      items:
-        - Ticket for the event
-        - HB Bag
-        - HB T-shirt
-      plan: Chocolate cake
-      price: '50'
+      price: '?'
 ---
 

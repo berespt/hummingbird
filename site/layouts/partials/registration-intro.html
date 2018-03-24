@@ -1,0 +1,16 @@
+<div class="bg-off-white pv4 ph3">
+	<div class="mw7 center">
+		<h2 class="f2 b lh-title mb3">{{.heading}}</h2>
+		<div class="flex-ns">
+			<div class="w-60-ns">
+				<p>{{.description | markdownify}}</p>
+			</div>
+			<div class="w-40-ns tc">
+					<img src="/img/logo.svg" alt="Hummingbird logo" class="dn db-ns w5 center mb4 br0 ">
+				<div class="tc">
+					<a href="{{.formButtonLink}}" class="btn raise">{{.formButtonText}}</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

@@ -53,7 +53,19 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: "Weight", name: "weight", widget: "hidden", default: 1}
           - {label: Image, name: image, widget: image, required: false}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: markdown}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+          - {label: Intro, name: intro, widget: object, fields: [
+            {label: Heading, name: heading, widget: string},
+            {label: Description, name: description, widget: markdown},
+            {label: "Button text", name: formButtonText, widget: string},
+            {label: "Button link", name: formButtonLink, widget: string}]}
+          - {label: Pricing, name: pricing, widget: object, fields: [
+              {label: Heading, name: heading, widget: string},
+              {label: Description, name: description, widget: markdown},
+              {label: Plans, name: plans, widget: list, fields: [
+                {label: Plan, name: plan, widget: string},
+                {label: Price, name: price, widget: string},
+                {label: Description, name: description, widget: string},
+                {label: Items, name: items, widget: list}]}]}
       - file: "site/content/about/_index.md"
         label: "About Page"
         name: "about"

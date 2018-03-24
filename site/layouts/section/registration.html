@@ -4,6 +4,8 @@
     {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 {{ end }}
 
+{{ partial "registration-intro" .Params.intro }}
+
 {{ partial "table" .Params.pricing }}
 
 {{ end }}

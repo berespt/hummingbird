@@ -16,6 +16,23 @@ export default class PostPreview extends React.Component {
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
 
+      <div class="bg-off-white pv4 ph3">
+        <div class="mw7 center">
+          <h2 class="f2 b lh-title mb3">{entry.getIn(["data", "intro", "heading"])}</h2>
+          <div class="flex-ns">
+            <div class="w-60-ns">
+              <p>{widgetsFor("intro").get('widgets').get('description')}</p>
+            </div>
+            <div class="w-40-ns tc">
+              <img src="/img/logo.svg" alt="Hummingbird logo" class="dn db-ns w5 center mb4 br0 "/>
+              <div class="tc">
+                <a href={entry.getIn(["data", "intro", "formButtonLink"])} class="btn raise">{entry.getIn(["data", "intro", "formButtonText"])}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div className="bg-off-white pv4 ph3">
         <div className="mw7 center">
 
