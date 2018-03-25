@@ -16,7 +16,7 @@ items:
     imageUrl: "/img/bands.jpg"
   - heading: "Skill sharing"
     text: >
-      Part of our daytime activities will be skill sharing sessions. So far we had all sorts of topics: from hugging through meditation to Polish folk. This year's agenda denends only on us, folks!
+      Part of our daytime activities will be skill sharing sessions. So far we had all sorts of topics: from hugging through meditation to Polish folk. This year's agenda depends only on us, folks!
     imageUrl: "/img/skillsharing.png"
   - heading: "Let's cook together!"
     text: >
