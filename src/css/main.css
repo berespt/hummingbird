@@ -129,3 +129,8 @@
   top: 26px;
   position: absolute; 
 }
+
+p {
+  text-align: justify;
+  max-width: 48rem;
+}
