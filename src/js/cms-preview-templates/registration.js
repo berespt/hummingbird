@@ -3,6 +3,18 @@ import format from "date-fns/format";
 
 import Jumbotron from "./components/jumbotron";
 
+const ConditionalButton = ({link, text}) => {
+  return !link ? "" :
+  <a href={link} class="btn raise">{text}</a>;
+};
+
+const IndiegogoCampaignBox = ({embedLink}) => {
+  if (!embedLink) { // return logo if there's no campaign link
+    return <img src="/img/logo.svg" alt="Hummingbird logo" class="w5 center mb4 br0 "/>
+  }
+  return <iframe src={embedLink} width="222px" height="445px" frameborder="0" scrolling="no"/>
+}
+
 export default class PostPreview extends React.Component {
   render() {
     const {entry, getAsset, widgetsFor} = this.props;
@@ -22,12 +34,14 @@ export default class PostPreview extends React.Component {
           <div class="flex-ns">
             <div class="w-60-ns">
               <p>{widgetsFor("intro").get('widgets').get('description')}</p>
-            </div>
-            <div class="w-40-ns tc">
-              <img src="/img/logo.svg" alt="Hummingbird logo" class="dn db-ns w5 center mb4 br0 "/>
               <div class="tc">
-                <a href={entry.getIn(["data", "intro", "formButtonLink"])} class="btn raise">{entry.getIn(["data", "intro", "formButtonText"])}</a>
+                <ConditionalButton link={entry.getIn(["data", "intro", "formButtonLink"])} text={entry.getIn(["data", "intro", "formButtonText"])}/>
+                &nbsp;
+                <ConditionalButton link={entry.getIn(["data", "intro", "indiegogoButtonLink"])} text={entry.getIn(["data", "intro", "indiegogoButtonText"])}/>
               </div>
+            </div>
+            <div class="w-40-ns tc dn db-ns">
+              <IndiegogoCampaignBox embedLink={entry.getIn(["data", "intro", "indiegogoEmbedLink"])}/>
             </div>
           </div>
         </div>

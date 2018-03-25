@@ -57,8 +57,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Intro, name: intro, widget: object, fields: [
             {label: Heading, name: heading, widget: string},
             {label: Description, name: description, widget: markdown},
-            {label: "Button text", name: formButtonText, widget: string},
-            {label: "Button link", name: formButtonLink, widget: string}]}
+            {label: "Form button text", name: formButtonText, widget: string},
+            {label: "Form button link", name: formButtonLink, widget: string},
+            {label: "Indiegogo button text", name: indiegogoButtonText, widget: string},
+            {label: "Indiegogo button link", name: indiegogoButtonLink, widget: string},
+            {label: "Indiegogo embed link (yup, they're not the same)", name: indiegogoEmbedLink, widget: string}]}
           - {label: Pricing, name: pricing, widget: object, fields: [
               {label: Heading, name: heading, widget: string},
               {label: Description, name: description, widget: markdown},

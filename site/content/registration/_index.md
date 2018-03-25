@@ -6,6 +6,9 @@ intro:
   heading: Registration
   formButtonText: Registration form
   formButtonLink: "https://docs.google.com/forms/d/e/1FAIpQLSdZs_UEZDMuc-fJAL8fUC6ZiHghly0fDCa0BeNJUql7yy9rNQ/viewform"
+  indiegogoButtonLink: https://www.indiegogo.com/projects/hummingbird-blues-2017-dance
+  indiegogoButtonText: Indiegogo! campaign
+  indiegogoEmbedLink: https://www.indiegogo.com/project/hummingbird-blues-2017-dance/embedded
   description: >-
     The only way to buy the ticket is through Indiegogo! campaign.
     You can choose just a ticket or support our exchange

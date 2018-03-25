@@ -4,12 +4,22 @@
 		<div class="flex-ns">
 			<div class="w-60-ns">
 				<p>{{.description | markdownify}}</p>
-			</div>
-			<div class="w-40-ns tc">
-					<img src="/img/logo.svg" alt="Hummingbird logo" class="dn db-ns w5 center mb4 br0 ">
+				
 				<div class="tc">
-					<a href="{{.formButtonLink}}" class="btn raise">{{.formButtonText}}</a>
+					{{ if .formButtonLink }}
+						<a href="{{.formButtonLink}}" class="btn raise">{{.formButtonText}}</a>
+					{{ end }}
+					{{ if .indiegogoButtonLink }}
+						<a href="{{.indiegogoButtonLink}}" class="btn raise">{{.indiegogoButtonText}}</a>
+					{{ end }}
 				</div>
+			</div>
+			<div class="w-40-ns tc dn db-ns">
+				{{ if .indiegogoEmbedLink }}
+					<iframe src="{{.indiegogoEmbedLink}}" width="222px" height="445px" frameborder="0" scrolling="no"></iframe>
+				{{ else }}
+					<img src="/img/logo.svg" alt="Hummingbird logo" class="w5 center mb4 br0 ">
+				{{ end }}
 			</div>
 		</div>
 	</div>
