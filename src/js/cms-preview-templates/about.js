@@ -20,7 +20,7 @@ const MediaBlock = ({heading, text, imageUrl, reverse}) => {
 
 export default class AboutPreview extends React.Component {
   render() {
-    const {entry, getAsset} = this.props;
+    const {entry, getAsset, widgetsFor} = this.props;
     
     let image = getAsset(entry.getIn(["data", "image"]));
 
@@ -30,6 +30,7 @@ export default class AboutPreview extends React.Component {
     }
     
     const itemsEntry = entry.getIn(["data", "items"]);
+    const getItemTextWidget = (i) => widgetsFor("items").get(i).get('widgets').get('text');
     const items = itemsEntry ? itemsEntry.toJS() : [];
     
     return <div>
@@ -45,7 +46,7 @@ export default class AboutPreview extends React.Component {
       <div className="bg-off-white pv4">
         <div className="mw7 center ph3 pt4">
           {items.map(({text, heading, imageUrl}, i) =>
-            <MediaBlock key={i} text={text} heading={heading} imageUrl={imageUrl} reverse={i % 2 === 0} />
+            <MediaBlock key={i} text={getItemTextWidget(i)} heading={heading} imageUrl={imageUrl} reverse={i % 2 === 0} />
           )}
         </div>
       </div>

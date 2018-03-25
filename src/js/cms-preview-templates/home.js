@@ -5,7 +5,7 @@ import Jumbotron from "./components/jumbotron";
 
 export default class PostPreview extends React.Component {
   render() {
-    const {entry, getAsset} = this.props;
+    const {entry, getAsset, widgetsFor} = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
 
     // Bit of a nasty hack to make relative paths work as expected as a background image here
@@ -27,7 +27,7 @@ export default class PostPreview extends React.Component {
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
             <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "intro", "heading"])}</h2>
-            <p className="mb4 mw6">{entry.getIn(["data", "intro", "text"])}</p>
+            <p className="mb4 mw6">{widgetsFor("intro").get("widgets").get("text")}</p>
             <section class="relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
               <iframe
                 src={entry.getIn(["data", "intro", "video"])}
@@ -47,10 +47,9 @@ export default class PostPreview extends React.Component {
 
         <div className="bg-grey-1 pv4">
           <div className="ph3 mw7 center">
+            <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "about", "heading"])}</h2>
             <div className="flex-l mhn2-l">
               <div className="w-40-l ph2-l">
-                <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "about", "heading"])}</h2>
-
                 <p>{entry.getIn(["data", "about", "text"])}</p>
               </div>
 

@@ -27,6 +27,6 @@ items:
     imageUrl: "/img/cooking.jpg"
   - heading: "Sunday chillout"
     text: >
-      To be honest, each year's Sunday is a surprise even for us. The only certain thing is pierogi.
+      To be honest, each year's Sunday is a surprise even for us. The only certain thing is [pierogi](https://en.wikipedia.org/wiki/Pierogi).
     imageUrl: "/img/sunday_chillout.jpg"
 ---

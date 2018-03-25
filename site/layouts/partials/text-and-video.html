@@ -1,7 +1,7 @@
 <div class="bg-off-white pv4">
   <div class="ph3 mw7 center">
     <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
-    <p class="mb4 mw6">{{.text}}</p>
+    <p class="mb4 mw6">{{.text | markdownify }}</p>
     <section class="relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
       <iframe
         src="{{.video}}"
