@@ -57,7 +57,7 @@ export default class PostPreview extends React.Component {
             {(entry.getIn(['data', 'pricing', 'plans']) || []).map((plan, index) => <div className="w-33-ns ph2" key={index}>
               <div className="ph2">
 
-                <h3 className="b f5 grey-3 tc lh-title mb3">{plan.get('plan')}</h3>
+                <h3 className="b f5 grey-3 tc lh-title mb3 h2-ns">{plan.get('plan')}</h3>
 
                 <p className="primary f1 b tc lh-title center">
                   {plan.get('price')}<span className="f4">&euro;</span>
