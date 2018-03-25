@@ -16,7 +16,7 @@ export default class ProgramPreview extends React.Component {
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
 
-      <div class="cms mw7 center ph3 pt4">
+      <div className="cms mw7 center ph3 pt4">
         { widgetFor("body") }
       </div>
     </div>;

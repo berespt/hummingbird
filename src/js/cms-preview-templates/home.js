@@ -27,11 +27,11 @@ export default class PostPreview extends React.Component {
         <div className="bg-off-white pv4">
           <div className="ph3 mw7 center">
             <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "intro", "heading"])}</h2>
-            <p className="mb4 mw6">{widgetsFor("intro").get("widgets").get("text")}</p>
-            <section class="relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
+            <p className="cms mb4 mw6">{widgetsFor("intro").get("widgets").get("text")}</p>
+            <section className="relative aspect-ratio aspect-ratio--16x9 overflow-hidden">
               <iframe
                 src={entry.getIn(["data", "intro", "video"])}
-                class="absolute top-0 left-0 h-100 w-100"
+                className="absolute top-0 left-0 h-100 w-100"
                 frameborder="0"
                 allow="autoplay; encrypted-media"
                 allowfullscreen
@@ -50,7 +50,7 @@ export default class PostPreview extends React.Component {
             <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "about", "heading"])}</h2>
             <div className="flex-l mhn2-l">
               <div className="w-40-l ph2-l">
-                <p>{widgetsFor("about").get("widgets").get("text")}</p>
+                <p className="cms">{widgetsFor("about").get("widgets").get("text")}</p>
               </div>
 
               <div className="w-60-l ph2-l">
