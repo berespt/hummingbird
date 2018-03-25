@@ -7,6 +7,7 @@ blurb:
     text: "Like our mascot, the Hummingbird – the most restless of all birds – we will be dancing without any breaks: from Friday evening, through parties, afterparties, daytime activities and meals together until Tuesday morning."
 intro:
     heading: "Registration opens April 4th!"
+    buttontext: Register
     text: "If you want to check our prices [click here](/registration)."
     video: "https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0"
 about:
