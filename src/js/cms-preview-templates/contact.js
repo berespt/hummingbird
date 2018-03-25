@@ -18,10 +18,16 @@ export default class ContactPreview extends React.Component {
     const entryContactEntries = entry.getIn(["data", "contact_entries"]);
     const contactEntries = entryContactEntries ? entryContactEntries.toJS() : [];
     return <div className="ph3 bg-off-white">
-      <img src={getAsset(entry.getIn(["data", "logo"]))} alt="" className="db w4 center pv4" />
-      <div className="center mw6 pv3">
-        { widgetFor("body") }
-        <ContactEntries data={contactEntries} />
+      <div class="flex-ns center mw7 pv3">
+        <div class="w-40-ns order-last">
+          <img src={getAsset(entry.getIn(["data", "logo"]))} alt="" className="db w5 center pv4" />
+        </div>
+        <div class="w-60-ns">
+          <div className="center mw6 pv3">
+            <div class="cms">{ widgetFor("body") }</div>
+            <ContactEntries data={contactEntries} />
+          </div>
+        </div>
       </div>
     </div>;
   }
