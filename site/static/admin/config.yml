@@ -12,6 +12,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
+        delete: false
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
@@ -32,6 +33,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
+        delete: false
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Weight", name: "weight", widget: "hidden", default: 1}
@@ -50,6 +52,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/registration/_index.md"
         label: "Registration Page"
         name: "registration"
+        delete: false
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Weight", name: "weight", widget: "hidden", default: 1}
@@ -73,6 +76,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/about/_index.md"
         label: "About Page"
         name: "about"
+        delete: false
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Weight", name: "weight", widget: "hidden", default: 1}
@@ -90,6 +94,7 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/program/_index.md"
         label: "Program Page"
         name: "program"
+        delete: false
         fields:
           - {label: Title, name: title, widget: string}
           - {label: "Weight", name: "weight", widget: "hidden", default: 1}
