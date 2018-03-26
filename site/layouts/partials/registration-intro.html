@@ -3,8 +3,9 @@
 		<h2 class="f2 b lh-title mb3">{{.heading}}</h2>
 		<div class="flex-ns">
 			<div class="w-60-ns">
-				<p class="cms">{{.description | markdownify}}</p>
-				
+				<div class="cms">
+					<p>{{.description | markdownify}}</p>
+				</div>
 				<div class="tc">
 					{{ if .formButtonLink }}
 						<a href="{{.formButtonLink}}" class="btn raise">{{.formButtonText}}</a>

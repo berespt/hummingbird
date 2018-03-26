@@ -1,6 +1,8 @@
 <div class="bg-grey-1 pv4">
   <div class="ph3 center mw7">
     <h2 class="f2 b lh-title mb2">{{.heading}}</h2>
-    <p class="mb0 cms">{{.text | markdownify }}</p>
+    <div class="mb0 cms">
+      <p>{{.text | markdownify }}</p>
+    </div>
   </div>
 </div>
