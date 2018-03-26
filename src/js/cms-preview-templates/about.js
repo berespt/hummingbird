@@ -39,7 +39,7 @@ export default class AboutPreview extends React.Component {
       <div className="bg-grey-1 pv4">
         <div className="ph3 center mw7">
           <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "blurb", "heading"])}</h2>
-          <p className="mb0">{entry.getIn(["data", "blurb", "text"])}</p>
+          <p className="cms mb0">{widgetsFor("blurb").get("widgets").get("text")}</p>
         </div>
       </div>
 
