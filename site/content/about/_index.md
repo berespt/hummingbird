@@ -6,12 +6,10 @@ blurb:
   heading: What to expect
   text: >-
     HB has been going on since 2015. It is a blues dancing exchange based in
-    Cracow, where we dance mad, chill hard and share crazy. 
+    Cracow, where we dance mad, chill hard and share crazy.\
 
-
-    Expect dancing till dawn to blues and fusion music, lots of daytime
-    activites and lots of pierogi. 
-
+    Expect dancing till dawn to blues and fusion music and lots of daytime
+    activities. \
 
     You can register without a partner. Don't worry about role unbalance - we
     believe in switching!
