@@ -36,14 +36,14 @@ export default class AboutPreview extends React.Component {
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
 
-      <div className="bg-grey-1 pv4">
+      <div className="bg-grey-1 pv3">
         <div className="ph3 center mw7">
           <h2 className="f2 b lh-title mb2">{entry.getIn(["data", "blurb", "heading"])}</h2>
           <p className="cms mb0">{widgetsFor("blurb").get("widgets").get("text")}</p>
         </div>
       </div>
 
-      <div className="bg-off-white pv4">
+      <div className="bg-off-white pv3">
         <div className="mw7 center ph3 pt4">
           {items.map(({text, heading, imageUrl}, i) =>
             <MediaBlock key={i} text={getItemTextWidget(i)} heading={heading} imageUrl={imageUrl} reverse={i % 2 === 0} />
