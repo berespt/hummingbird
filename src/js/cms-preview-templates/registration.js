@@ -28,7 +28,7 @@ export default class PostPreview extends React.Component {
     return <div>
       <Jumbotron image={image} title={entry.getIn(["data", "title"])} />
 
-      <div className="bg-off-white pv4 ph3">
+      <div className="bg-off-white pv3 ph3">
         <div className="mw7 center">
           <h2 className="f2 b lh-title mb3">{entry.getIn(["data", "intro", "heading"])}</h2>
           <div className="flex-ns">
@@ -47,7 +47,7 @@ export default class PostPreview extends React.Component {
         </div>
       </div>
 
-      <div className="bg-off-white pv4 ph3">
+      <div className="bg-off-white pv3 ph3">
         <div className="mw7 center">
 
           <h2 className="f2 b lh-title mb3">{entry.getIn(['data', 'pricing', 'heading'])}</h2>
