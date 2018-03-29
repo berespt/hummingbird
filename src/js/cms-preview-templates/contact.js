@@ -20,7 +20,7 @@ export default class ContactPreview extends React.Component {
     return <div className="ph3 bg-off-white">
       <div className="flex-ns center mw7 pv3">
         <div className="w-40-ns order-last">
-          <img src={getAsset(entry.getIn(["data", "logo"]))} alt="" className="db w5 center pv4" />
+          <img src={getAsset(entry.getIn(["data", "logo"]))} alt="" className="db w5 center pv3" />
         </div>
         <div className="w-60-ns">
           <div className="center mw6 pv3">
