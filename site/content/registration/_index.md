@@ -4,7 +4,7 @@ weight: 200
 image: ''
 intro:
   description: >-
-    The only way to buy the ticket is through [Indiegogo](https://www.indiegogo.com/projects/hummingbird-blues-2017-dance) campaign.
+    The only way to buy the ticket is through **Indiegogo** campaign.
 
 
     You can choose just a ticket or support our exchange by donating some more
@@ -16,8 +16,8 @@ intro:
     us and we'll see what we can do.
 
 
-    After backing us on [Indiegogo](https://www.indiegogo.com/projects/hummingbird-blues-2017-dance) please don't forget to fill in the
-    [registration form](https://docs.google.com/forms/d/e/1FAIpQLSdZs_UEZDMuc-fJAL8fUC6ZiHghly0fDCa0BeNJUql7yy9rNQ/viewform).
+    After backing us on **Indiegogo** please don't forget to fill in the
+    **registration form**.
   formButtonLink: >-
     https://docs.google.com/forms/d/e/1FAIpQLSdZs_UEZDMuc-fJAL8fUC6ZiHghly0fDCa0BeNJUql7yy9rNQ/viewform
   formButtonText: Registration form
