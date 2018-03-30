@@ -7,22 +7,28 @@ intro:
     The only way to buy the ticket is through the __Indiegogo campaign__.
 
 
-    You can choose to pay for the ticket only or support our exchange by donating some more money and buying perks. Additional donations will allow us to boost up our
-    event with more bands, better dance floors and generally more goodies.
+    You can choose to pay for the ticket only or support our exchange by
+    donating some more money and buying perks. Additional donations will allow
+    us to boost up our event with more bands, better dance floors and generally
+    more goodies.
 
 
-    If you'd like to join the event but the price is an obstacle, contact
-    us and we'll see what we can do.
+    If you'd like to join the event but the price is an obstacle, contact us and
+    we'll see what we can do.
 
 
-    Remember to fill in the __Registration form__ after you back us on __Indiegogo__.
-  formButtonLink: >-
-    https://docs.google.com/forms/d/e/1FAIpQLSdZs_UEZDMuc-fJAL8fUC6ZiHghly0fDCa0BeNJUql7yy9rNQ/viewform
+    Remember to fill in the __Registration form__ after you back us on
+    __Indiegogo__.
+
+
+    Links to the campaign and the registration form will appear 4th April. Stay
+    tuned!
+  formButtonLink: ''
   formButtonText: Registration form
   heading: Registration
-  indiegogoButtonLink: 'https://www.indiegogo.com/projects/hummingbird-blues-2017-dance'
+  indiegogoButtonLink: ''
   indiegogoButtonText: Indiegogo campaign
-  indiegogoEmbedLink: 'https://www.indiegogo.com/project/hummingbird-blues-2017-dance/embedded'
+  indiegogoEmbedLink: ''
 pricing:
   description: ''
   heading: Perks
