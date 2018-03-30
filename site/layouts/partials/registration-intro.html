@@ -7,11 +7,11 @@
 					{{.description | markdownify}}
 				</div>
 				<div class="tc">
-					{{ if .formButtonLink }}
-						<a href="{{.formButtonLink}}" class="btn raise">{{.formButtonText}}</a>
-					{{ end }}
 					{{ if .indiegogoButtonLink }}
 						<a href="{{.indiegogoButtonLink}}" class="btn raise">{{.indiegogoButtonText}}</a>
+					{{ end }}
+					{{ if .formButtonLink }}
+						<a href="{{.formButtonLink}}" class="btn raise">{{.formButtonText}}</a>
 					{{ end }}
 				</div>
 			</div>

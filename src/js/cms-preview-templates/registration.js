@@ -35,9 +35,9 @@ export default class PostPreview extends React.Component {
             <div className="w-60-ns">
               <p className="cms">{widgetsFor("intro").get('widgets').get('description')}</p>
               <div className="tc">
-                <ConditionalButton link={entry.getIn(["data", "intro", "formButtonLink"])} text={entry.getIn(["data", "intro", "formButtonText"])}/>
-                &nbsp;
                 <ConditionalButton link={entry.getIn(["data", "intro", "indiegogoButtonLink"])} text={entry.getIn(["data", "intro", "indiegogoButtonText"])}/>
+                &nbsp;
+                <ConditionalButton link={entry.getIn(["data", "intro", "formButtonLink"])} text={entry.getIn(["data", "intro", "formButtonText"])}/>
               </div>
             </div>
             <div className="w-40-ns tc dn db-ns">
