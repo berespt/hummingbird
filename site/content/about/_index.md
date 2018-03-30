@@ -9,7 +9,7 @@ blurb:
     blues dancing exchange taking place in Krakow, where we dance mad, chill
     hard and share crazy.\
 
-    Expect all-night dancing to blues and fusion music, lots of daytime
+    Expect all-night dancing to blues and fusion music and lots of daytime
     activities. \
 
     You can register without a partner. Don't worry about role imbalance - we
