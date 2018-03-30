@@ -1,8 +1,8 @@
 ---
-title: Program
+title: Programme
 weight: 100
 image: ''
 ---
-# Program
+# Programme
 
-Detailed program coming soon!
+Detailed programme coming soon!

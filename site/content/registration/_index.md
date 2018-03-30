@@ -4,20 +4,18 @@ weight: 200
 image: ''
 intro:
   description: >-
-    The only way to buy the ticket is through _Indiegogo_ campaign.
+    The only way to buy the ticket is through the __Indiegogo campaign__.
 
 
-    You can choose just a ticket or support our exchange by donating some more
-    money or buying perks. Thanks to extra donations we are able to boost up our
-    event with more bands, better dancefloors and generally more goodies.
+    You can choose to pay for the ticket only or support our exchange by donating some more money and buying perks. Additional donations will allow us to boost up our
+    event with more bands, better dance floors and generally more goodies.
 
 
-    If you want to join the event but the price is an obstacle for you, contact
+    If you'd like to join the event but the price is an obstacle, contact
     us and we'll see what we can do.
 
 
-    After backing us on _Indiegogo_ please don't forget to fill in the
-    registration form.
+    Remember to fill in the __Registration form__ after you back us on __Indiegogo__.
   formButtonLink: >-
     https://docs.google.com/forms/d/e/1FAIpQLSdZs_UEZDMuc-fJAL8fUC6ZiHghly0fDCa0BeNJUql7yy9rNQ/viewform
   formButtonText: Registration form
