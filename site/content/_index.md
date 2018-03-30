@@ -17,15 +17,16 @@ about:
   heading: About us
   image: /img/about-jumbotron.png
   text: >-
-    HB has been going on since 2015. It is a blues dancing exchange based in
-    Cracow, where we dance mad, chill hard and share crazy.
+    Hummingbird Blues is organised annually since 2015. It is an international
+    blues dancing exchange taking place in Krakow, where we dance mad, chill
+    hard and share crazy.
 
 
-    Expect dancing till dawn to blues and fusion music, lots of daytime
-    activities and lots of [pierogi](https://en.wikipedia.org/wiki/Pierogi).
+    Expect all-night dancing to blues and fusion music, lots of daytime
+    activites and tons of [pierogi](https://en.wikipedia.org/wiki/Pierogi).
 
 
-    You can register without a partner. Don't worry about role unbalance - we
+    You can register without a partner. Don't worry about role imbalance - we
     believe in switching!
 ---
 
