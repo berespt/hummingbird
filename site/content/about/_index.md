@@ -22,7 +22,7 @@ items:
       mediaeval city of Krakow. You'll hear traditional blues as well as
       enticing fusion.
   - heading: Let's Share
-    imageUrl: /img/skillsharing.png
+    imageUrl: /img/skillsharing.jpg
     text: >
       Part of our daytime activities will be skill sharing sessions. So far
       we've had all sorts of topics: from hugging through meditation to Polish
