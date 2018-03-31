@@ -15,7 +15,7 @@ intro:
   video: 'https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0'
 about:
   heading: About us
-  image: /img/about-jumbotron.png
+  image: /img/about.jpg
   text: >-
     Hummingbird Blues is organised annually since 2015. It is an international
     blues dancing exchange taking place in Krakow, where we dance mad, chill
