@@ -4,7 +4,8 @@ weight: 200
 image: ''
 intro:
   description: >-
-    The only way to buy the ticket is through the **Indiegogo campaign**.
+    The only way to buy the ticket is through the **Indiegogo campaign** (after
+    registering you will receive the link).
 
 
     You can choose to pay for the ticket only or support our exchange by
@@ -17,17 +18,18 @@ intro:
     we'll see what we can do.
 
 
-    Remember to fill in the **Registration form** after you back us on
-    **Indiegogo**.
+    Please fill in the **registration form** and wait for the confirmation
+    e-mail with the payment link. 
 
 
     ## Update
 
+
     We freaked out a bit because of number of people registering.
 
 
-    __The perks on indiegogo will become hidden, but no worries! We already
-    sorted it out.__
+    **The perks on indiegogo will become hidden, but no worries! We already
+    sorted it out.**
 
 
     Just fill in the registration form, and we'll take care of the rest.
