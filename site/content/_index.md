@@ -10,8 +10,8 @@ blurb:
     afterparties, daytime activities and meals together till Tuesday dawn.
 intro:
   buttontext: Register
-  heading: Registration opens 4th April!
-  text: 'You can check ticket prices [here](/registration).'
+  heading: Registration is open!
+  text: 'You can register and check ticket prices [here](/registration).'
   video: 'https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0'
 about:
   heading: About us
