@@ -23,12 +23,12 @@ intro:
 
     Links to the campaign and the registration form will appear 4th April. Stay
     tuned!
-  formButtonLink: ''
+  formButtonLink: 'https://goo.gl/forms/jpv84isO4LliUH0c2'
   formButtonText: Registration form
   heading: Registration
-  indiegogoButtonLink: ''
+  indiegogoButtonLink: 'https://www.indiegogo.com/projects/hummingbird-blues-2018'
   indiegogoButtonText: Indiegogo campaign
-  indiegogoEmbedLink: ''
+  indiegogoEmbedLink: 'https://www.indiegogo.com/project/hummingbird-blues-2018/embedded'
 pricing:
   description: ''
   heading: Perks
