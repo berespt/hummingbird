@@ -4,7 +4,7 @@ weight: 200
 image: ''
 intro:
   description: >-
-    The only way to buy the ticket is through the __Indiegogo campaign__.
+    The only way to buy the ticket is through the **Indiegogo campaign**.
 
 
     You can choose to pay for the ticket only or support our exchange by
@@ -17,12 +17,8 @@ intro:
     we'll see what we can do.
 
 
-    Remember to fill in the __Registration form__ after you back us on
-    __Indiegogo__.
-
-
-    Links to the campaign and the registration form will appear 4th April. Stay
-    tuned!
+    Remember to fill in the **Registration form** after you back us on
+    **Indiegogo**.
   formButtonLink: 'https://goo.gl/forms/jpv84isO4LliUH0c2'
   formButtonText: Registration form
   heading: Registration
