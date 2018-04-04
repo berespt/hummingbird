@@ -18,11 +18,12 @@ intro:
     we'll see what we can do.
 
 
-    Fill in the **registration form** and wait for the confirmation e-mail from
-    us with the payment link.
+    Please fill in the **registration form** and wait for the confirmation
+    e-mail with the payment link. 
 
 
     ## Update
+
 
     We freaked out a bit because of number of people registering.
 
