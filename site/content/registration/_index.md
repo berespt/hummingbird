@@ -19,10 +19,22 @@ intro:
 
     Remember to fill in the **Registration form** after you back us on
     **Indiegogo**.
+
+
+    ## Update
+
+    We freaked out a bit because of number of people registering.
+
+
+    __The perks on indiegogo will become hidden, but no worries! We already
+    sorted it out.__
+
+
+    Just fill in the registration form, and we'll take care of the rest.
   formButtonLink: 'https://goo.gl/forms/jpv84isO4LliUH0c2'
   formButtonText: Registration form
   heading: Registration
-  indiegogoButtonLink: 'https://www.indiegogo.com/projects/hummingbird-blues-2018'
+  indiegogoButtonLink: ''
   indiegogoButtonText: Indiegogo campaign
   indiegogoEmbedLink: 'https://www.indiegogo.com/project/hummingbird-blues-2018/embedded'
 pricing:
