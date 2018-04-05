@@ -4,8 +4,23 @@ weight: 200
 image: ''
 intro:
   description: >-
-    The only way to buy the ticket is through the **Indiegogo campaign** (after
-    registering you will receive the link).
+    In order to register for the event:
+
+
+    1. Fill in the registration form. 
+
+
+    2. You should receive a copy of the registration form on your email account.
+    Now you're done, you only need to wait :-)
+
+
+    3. Soon you'll receive confirmation email with a message that you have a
+    spot.
+
+
+    4. Back us on Indiegogo campaign with the perk you chose in the registration
+    form. Because the number of places is limited, **please hold on with the
+    payment** until you receive the confirmation email.
 
 
     You can choose to pay for the ticket only or support our exchange by
