@@ -4,8 +4,18 @@ weight: 200
 image: ''
 intro:
   description: >-
-    The only way to buy the ticket is through the **Indiegogo campaign** (after
-    registering you will receive the link).
+    In order to register for the event:
+
+
+    1. Fill in the registration form. You will receive a copy of the
+    registration form on your email account.
+
+    2. The next email you'll receive will be a confirmation saying that you have
+    a spot.
+
+    3. Back us on Indiegogo campaign with the perk you chose in the form.
+    Because the number of places is limited, **please hold on with the payment**
+    until you receive the confirmation email.
 
 
     You can choose to pay for the ticket only or support our exchange by
@@ -19,20 +29,11 @@ intro:
 
 
     Please fill in the **registration form** and wait for the confirmation
-    e-mail with the payment link. 
+    email.
 
 
-    ## Update
-
-
-    We freaked out a bit because of number of people registering.
-
-
-    **The perks on indiegogo will become hidden, but no worries! We already
-    sorted it out.**
-
-
-    Just fill in the registration form, and we'll take care of the rest.
+    If you buy perks without filling the registration form we do not guarantee
+    you a spot.
   formButtonLink: 'https://goo.gl/forms/jpv84isO4LliUH0c2'
   formButtonText: Registration form
   heading: Registration
