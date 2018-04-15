@@ -14,7 +14,7 @@
 	<ul class="overflow-hidden menu flex b grey-3 flex-row-ns flex-column">
 		{{ $currentPage := . }}
 		{{ range .Site.Menus.main }}
-			<li><a href="{{ .URL }}" class="pa3 no-underline db
+			<li><a href="{{ .URL }}" class="pv3 ph3-m ph2 no-underline db
 				{{ if $currentPage.IsMenuCurrent "main" .}}active{{ end }}">{{ .Name }}</a>
 			</li>
 		{{ end }}
