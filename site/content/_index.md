@@ -10,7 +10,7 @@ blurb:
     afterparties, daytime activities and meals together till Tuesday dawn.
 intro:
   buttontext: Register
-  heading: Registration is closed!
+  heading: Registration list is full!
   text: >-
     You can still sign up [here](/registration), though you'll end up on a
     waiting list.
