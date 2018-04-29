@@ -4,36 +4,11 @@ weight: 200
 image: ''
 intro:
   description: >-
-    In order to register for the event:
+    Registration list is already full, sorry folks!
 
 
-    1. Fill in the registration form. You will receive a copy of the
-    registration form on your email account.
-
-    2. The next email you'll receive will be a confirmation saying that you have
-    a spot.
-
-    3. Back us on Indiegogo campaign with the perk you chose in the form.
-    Because the number of places is limited, **please hold on with the payment**
-    until you receive the confirmation email.
-
-
-    You can choose to pay for the ticket only or support our exchange by
-    donating some more money and buying perks. Additional donations will allow
-    us to boost up our event with more bands, better dance floors and generally
-    more goodies.
-
-
-    If you'd like to join the event but the price is an obstacle, contact us and
-    we'll see what we can do.
-
-
-    Please fill in the **registration form** and wait for the confirmation
-    email.
-
-
-    If you buy perks without filling the registration form we do not guarantee
-    you a spot.
+    You can still fill in the **registration form**, we'll put you an a waiting
+    list.
   formButtonLink: 'https://goo.gl/forms/jpv84isO4LliUH0c2'
   formButtonText: Registration form
   heading: Registration
