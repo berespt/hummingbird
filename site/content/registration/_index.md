@@ -7,7 +7,7 @@ intro:
     Registration list is already full, sorry folks!
 
 
-    You can still fill in the **registration form**, we'll put you an a waiting
+    You can still fill in the **registration form**, we'll put you on a waiting
     list.
   formButtonLink: 'https://goo.gl/forms/jpv84isO4LliUH0c2'
   formButtonText: Registration form
