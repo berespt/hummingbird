@@ -134,3 +134,19 @@ p {
   text-align: justify;
   max-width: 48rem;
 }
+
+@media (--breakpoint-not-small) {
+  .schedule { display: flex; }
+}
+.schedule {
+  margin-bottom: 0.2rem;
+}
+.schedule-date {
+  width: 8rem;
+  color: var(--grey-3);
+  font-weight: bold; 
+}
+.note {
+  color: var(--grey-3);
+  font-size: 0.9rem;
+}
