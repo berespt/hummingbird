@@ -10,7 +10,9 @@ image: ''
     <div class="schedule-date">20:00</div>
     <div>
         <div>Meet&Greet in Awangarda</div>
-        <div class="note">Address: <a href="https://goo.gl/maps/Uv6LwZcHTGB2">Mikołaja Zyblikiewicza 1</a>
+        <div class="note">Address:
+            <a href="https://goo.gl/maps/Uv6LwZcHTGB2"
+               target="_blank" rel="noopener noreferrer">Mikołaja Zyblikiewicza 1</a>
         </div>
     </div>
 </div>
@@ -24,7 +26,9 @@ image: ''
     <div class="schedule-date">13:00 - 16:00</div>
     <div>
         <div>Skill sharing in Jazz Like That</div>
-        <div class="note">Address: <a href="https://goo.gl/maps/VAQLMrJrjmG2">Rynek Główny 34</a>
+        <div class="note">Address:
+            <a href="https://goo.gl/maps/VAQLMrJrjmG2"
+            target="_blank" rel="noopener noreferrer">Rynek Główny 34</a>
         </div>
     </div>
 </div>
@@ -52,7 +56,10 @@ image: ''
     <div class="schedule-date">14:00 - 18:00</div>
     <div>
         <div>Chillout at Bagry lake</div>
-        <div class="note">Address: <a href="https://goo.gl/maps/XzRR9uiS3yM2">Horn Harbour, Kozia 22</a></div>
+        <div class="note">Address:
+            <a href="https://goo.gl/maps/XzRR9uiS3yM2"
+               target="_blank" rel="noopener noreferrer">Horn Harbour, Kozia 22</a>
+        </div>
         <div class="note">Our definition of chillout: pierogi, massage, jam session.</div>
     </div>
 </div>
@@ -60,7 +67,10 @@ image: ''
     <div class="schedule-date">20:00 - 04:00</div>
     <div>
         <div>Party in Lost Bar</div>
-        <div class="note">Address: <a href="https://goo.gl/maps/cgzSQnXJZc92">Szewska 20</a></div>
+        <div class="note">Address:
+            <a href="https://goo.gl/maps/cgzSQnXJZc92"
+               target="_blank" rel="noopener noreferrer">Szewska 20</a>
+        </div>
     </div>
 </div>
 
