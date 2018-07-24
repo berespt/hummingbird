@@ -30,6 +30,7 @@ image: ''
             <a href="https://goo.gl/maps/VAQLMrJrjmG2"
             target="_blank" rel="noopener noreferrer">Rynek Główny 34</a>
         </div>
+        <div class="note">Look for Jazz Like That dance studio.</div>
     </div>
 </div>
 <div class="schedule">
