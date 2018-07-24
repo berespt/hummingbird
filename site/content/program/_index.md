@@ -9,7 +9,7 @@ image: ''
 <div class="schedule">
     <div class="schedule-date">20:00</div>
     <div>
-        <div>Meet&Greet in Awangarda</div>
+        <div>Meet&Greet in Avangarda</div>
         <div class="note">Address:
             <a href="https://goo.gl/maps/Uv6LwZcHTGB2"
                target="_blank" rel="noopener noreferrer">Mikołaja Zyblikiewicza 1</a>
@@ -18,14 +18,14 @@ image: ''
 </div>
 <div class="schedule">
     <div class="schedule-date">21:00 - 04:00</div>
-    <div>Party in Awangarda</div>
+    <div>Party in Avangarda</div>
 </div>
 
 <h2>Saturday</h2>
 <div class="schedule">
     <div class="schedule-date">13:00 - 16:00</div>
     <div>
-        <div>Skill sharing in Jazz Like That</div>
+        <div>Skill sharing in Pałac Spiski</div>
         <div class="note">Address:
             <a href="https://goo.gl/maps/VAQLMrJrjmG2"
             target="_blank" rel="noopener noreferrer">Rynek Główny 34</a>
@@ -41,7 +41,7 @@ image: ''
 </div>
 <div class="schedule">
     <div class="schedule-date">21:00 - 04:00</div>
-    <div>Party in Jazz Like That</div>
+    <div>Party in Pałac Spiski</div>
 </div>
 <div class="schedule">
     <div class="schedule-date">04:00 - sunrise</div>
@@ -78,7 +78,10 @@ image: ''
 <div class="schedule">
     <div class="schedule-date">20:00 - 02:00</div>
     <div>
-        <div>Afterparty</div>
-        <div class="note">Place to be announced.</div>
+        <div>Afterparty in Lost Bar</div>
+        <div class="note">Address:
+            <a href="https://goo.gl/maps/cgzSQnXJZc92"
+               target="_blank" rel="noopener noreferrer">Szewska 20</a>
+        </div>
     </div>
 </div>
