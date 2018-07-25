@@ -135,14 +135,16 @@ p {
   max-width: 48rem;
 }
 
-@media (--breakpoint-not-small) {
-  .schedule { display: flex; }
+.schedule > h2 {
+  margin-top: 0.6rem;
 }
-.schedule {
-  margin-bottom: 0.2rem;
+
+.schedule-item {
+  display: flex;
+  margin-bottom: 0.35rem;
 }
-.schedule-date {
-  width: 8rem;
+.schedule-time {
+  min-width: 8rem;
   color: var(--grey-3);
   font-weight: bold; 
 }
