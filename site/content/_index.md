@@ -1,6 +1,6 @@
 ---
 title: Hummingbird Blues
-subtitle: 'Krakow, 10-13 August 2018'
+subtitle: 'Krakow, 16-19 August 2019'
 image: /img/shadows_blue.jpg
 blurb:
   heading: Why Hummingbird?
@@ -10,10 +10,8 @@ blurb:
     afterparties, daytime activities and meals together till Tuesday dawn.
 intro:
   buttontext: Register
-  heading: Registration list is full!
-  text: >-
-    You can still sign up [here](/registration), though you'll end up on a
-    waiting list.
+  heading: Save the date!
+  text: 'Kraków, 16-19 August 2019. More info coming soon(ish) ;-).'
   video: 'https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0'
 about:
   heading: About us
