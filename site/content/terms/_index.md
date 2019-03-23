@@ -74,10 +74,10 @@ We endeavor to provide a safe environment and prohibit unsafe practices as detai
 
 
 
-1. Inclusion – you have a right to not be discriminated or harassed based on your identity and should treat others the same.
-2. Consent – respect people's boundaries, ask if your partner is comfortable to do close embrace, or dips. You have a right to say no or change your mind anytime without justification.
-3. Invitations – feel free to ask anyone to dance, but remember that everyone has a right to decline. It is ok to say no if somebody asks you to dance if you don't feel like it.  
-4. Dance roles – they aren't gender-specific. All dancers can dance their preferred role at any given time. Check in with your partner about your/their preferred role.
-5. Hygiene – spare shirt, towel, personal hygiene products can make the dance more pleasurable for you and your partners.
-6. Do not force yourself – it is okay not to have fun sometimes, you might need a break
-7. Please communicate your boundaries – other dancers may not be aware that they are crossing them. If you witness any form of inappropriate behavior towards you and your fellow dancers do not hesitate to contact the organizers.
+*   Inclusion – you have a right to not be discriminated or harassed based on your identity and should treat others the same.
+*   Consent – respect people's boundaries, ask if your partner is comfortable to do close embrace, or dips. You have a right to say no or change your mind anytime without justification.
+*   Invitations – feel free to ask anyone to dance, but remember that everyone has a right to decline. It is ok to say no if somebody asks you to dance if you don't feel like it.
+*   Dance roles – they aren't gender-specific. All dancers can dance their preferred role at any given time. Check in with your partner about your/their preferred role.
+*   Hygiene – spare shirt, towel, personal hygiene products can make the dance more pleasurable for you and your partners.
+*   Do not force yourself – it is okay not to have fun sometimes, you might need a break.
+*   Please communicate your boundaries – other dancers may not be aware that they are crossing them. If you witness any form of inappropriate behavior towards you and your fellow dancers do not hesitate to contact the organizers.
