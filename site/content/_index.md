@@ -13,7 +13,7 @@ intro:
   heading: Save the date!
   text: |-
     Kraków, 16-19 August 2019.\
-    Registration starts on April 6th, 5 PM CET! Don't miss it! :-).
+    Registration starts on April 6th, 5 PM CET! Don't miss it! :-)
   video: 'https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0'
 about:
   heading: About us
