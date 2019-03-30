@@ -11,7 +11,9 @@ blurb:
 intro:
   buttontext: Register
   heading: Save the date!
-  text: 'Kraków, 16-19 August 2019. More info coming soon(ish) ;-).'
+  text: |-
+    Kraków, 16-19 August 2019.\
+    Registration starts on 6th April, 5 PM CET! Don't miss it! :-).
   video: 'https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0'
 about:
   heading: About us
