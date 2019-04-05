@@ -50,7 +50,7 @@ Drugs are prohibited at the event. Please do not bring them into the spaces.
 
 ## 5. Photo and video
 
-Please be aware that at the event photos and videos will be taken for promotional material. By signing up to an event you are agreeing to using your image in our promotions.
+Please be aware that at the event photos and videos will be taken for promotional material. By signing up to an event you are agreeing to using your image in our promotional materials.
 
 Attendees are encouraged to take their own photos and videos and we are happy to see them shared publicly. Please respect other dancers when taking photos – avoid direct flash as possible, respect dancers' privacy, do not disturb the dancing space.
 
