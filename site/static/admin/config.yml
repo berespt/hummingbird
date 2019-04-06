@@ -100,3 +100,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Weight", name: "weight", widget: "hidden", default: 1}
           - {label: Image, name: image, widget: image, required: false}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/terms/_index.md"
+        label: "Terms Page"
+        name: "terms"
+        delete: false
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Weight", name: "weight", widget: "hidden", default: 1}
+          - {label: Image, name: image, widget: image, required: false}
+          - {label: "Body", name: "body", widget: "markdown"}
