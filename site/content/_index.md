@@ -13,7 +13,7 @@ intro:
   heading: Registration is open!
   text: |-
     The event takes place in Kraków, 16-19 August 2019.\
-    Registration is already open.
+    Registration is already open!
   video: 'https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0'
 about:
   heading: About us
