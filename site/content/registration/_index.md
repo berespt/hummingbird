@@ -11,7 +11,7 @@ intro:
 
 
     Admission fee is 40 Euro. Just fill in the form and relax, we'll get in
-    touch with you if there are any spots left! :-)
+    touch with you if any spots open up! :-)
 
 
     Note: we're still in the works regarding sending confirmation emails for
