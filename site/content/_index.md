@@ -10,10 +10,13 @@ blurb:
     afterparties, daytime activities and meals together till Tuesday dawn.
 intro:
   buttontext: Register
-  heading: Registration is open!
-  text: |-
-    The event takes place in Kraków, 16-19 August 2019.\
-    Registration is already open!
+  heading: Registration
+  text: >-
+    The event takes place in Kraków, 16-19 August 2019.
+
+
+    All spots are already taken, but we have a waiting list! Please fill in the
+    form, you might still get in :-)
   video: 'https://www.youtube.com/embed/huatn1mvhjk?rel=0&amp;showinfo=0'
 about:
   heading: About us
