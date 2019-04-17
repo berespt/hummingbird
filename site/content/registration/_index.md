@@ -15,7 +15,7 @@ intro:
 
 
     Note: we're still in the works regarding sending confirmation emails for
-    already registered people. If you didn't receive it yet - don't worry! :-)
+    already registered people. If you haven't received it yet - don't worry! :-)
   formButtonLink: >-
     https://docs.google.com/forms/d/e/1FAIpQLSd2Va4BndEraKD4d43pI2SnnbvlgvhQ-JPy_X-aX125kv8qXQ/viewform
   formButtonText: Registration form
