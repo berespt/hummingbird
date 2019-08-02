@@ -9,7 +9,7 @@ image: ''
     <div class="schedule">
         <h2>Thursday</h2>
         <div class="schedule-item">
-            <div class="schedule-time">21:00</div>
+            <div class="schedule-time">21:00 - 02:00</div>
             <div>
                 <div>Preparty at Strefa</div>
                 <div class="note">Address:
@@ -20,7 +20,7 @@ image: ''
         </div>
         <h2>Friday</h2>
         <div class="schedule-item">
-            <div class="schedule-time">20:00</div>
+            <div class="schedule-time">20:00 - 21:00</div>
             <div>
                 <div>Meet&Greet at Plac Nowy 1</div>
                 <div class="note">Address:
