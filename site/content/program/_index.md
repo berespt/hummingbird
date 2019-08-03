@@ -42,7 +42,7 @@ image: ''
         </div>
         <h2>Saturday</h2>
         <div class="schedule-item">
-            <div class="schedule-time">13:00 - 16:00</div>
+            <div class="schedule-time">12:30 - 16:00</div>
             <div>
                 <div>Skill sharing at Krakow Dance Works</div>
                 <div class="note">Address:
