@@ -11,7 +11,8 @@ image: ''
         <div class="schedule-item">
             <div class="schedule-time">21:00 - 02:00</div>
             <div>
-                <div>Preparty at Strefa</div>
+                <div>Preparty at <a href="https://www.facebook.com/StrefaKrakow/"
+                    target="_blank" rel="noopener noreferrer">Strefa</a></div>
                 <div class="note">Address:
                     <a href="https://goo.gl/maps/eAigseuTWPVFc78N8"
                     target="_blank" rel="noopener noreferrer">Św. Tomasza 31</a>
@@ -20,18 +21,15 @@ image: ''
         </div>
         <h2>Friday</h2>
         <div class="schedule-item">
-            <div class="schedule-time">20:00 - 21:00</div>
+            <div class="schedule-time">20:00 - 02:00</div>
             <div>
-                <div>Meet&Greet at Plac Nowy 1</div>
+                <div>Party at <a href="https://www.facebook.com/PlacNowy1/"
+                    target="_blank" rel="noopener noreferrer">Plac Nowy 1</a></div>
                 <div class="note">Address:
                     <a href="https://goo.gl/maps/MwfjUVYne8G42mAU7"
                     target="_blank" rel="noopener noreferrer">Plac Nowy 1</a>
                 </div>
             </div>
-        </div>
-        <div class="schedule-item">
-            <div class="schedule-time">21:00 - 02:00</div>
-            <div>Party at Plac Nowy 1</div>
         </div>
         <div class="schedule-item">
             <div class="schedule-time">02:00 - ?</div>
@@ -44,7 +42,7 @@ image: ''
         <div class="schedule-item">
             <div class="schedule-time">12:30 - 16:00</div>
             <div>
-                <div>Skill sharing at Krakow Dance Works</div>
+                <div>Skill sharing at <a href="https://www.facebook.com/KrakowDanceWorks-560257034499328/"target="_blank" rel="noopener noreferrer">Krakow Dance Works</a></div>
                 <div class="note">Address:
                     <a href="https://g.page/KrakowDanceWorks?share"
                     target="_blank" rel="noopener noreferrer">Św. Gertrudy 8/1</a>
@@ -61,7 +59,8 @@ image: ''
         <div class="schedule-item">
             <div class="schedule-time">21:00 - 04:00</div>
             <div>
-                <div>Party at Salsa Sabrosa</div>
+                <div>Party at <a href="https://www.facebook.com/SalsaSabrosaTeam/"
+                        target="_blank" rel="noopener noreferrer">Salsa Sabrosa</a></div>
                 <div class="note">Address:
                         <a href="https://g.page/SalsaSabrosaTeam?share"
                         target="_blank" rel="noopener noreferrer">Dolnych Młynów 10</a>
@@ -79,19 +78,20 @@ image: ''
         <div class="schedule-item">
             <div class="schedule-time">14:00 - 18:00</div>
             <div>
-                <div>Chillout at Zabłocie 13</div>
+                <div>Chillout at <a href="https://www.facebook.com/zablocie13/"
+                    target="_blank" rel="noopener noreferrer">Zabłocie 13</a></div>
                 <div class="note">Address:
                     <a href="https://goo.gl/maps/xRnAMMdAs74SogCC9"
                     target="_blank" rel="noopener noreferrer">Zabłocie 13</a>
                 </div>
                 <div class="note">Pierogi! Also vegan option (sorry, no gluten-free!) - it’s on us!</div>
-                <div class="note">Please don’t bring your own drinks and order at the bar</div>
             </div>
         </div>
         <div class="schedule-item">
             <div class="schedule-time">20:00 - 04:00</div>
             <div>
-                <div>Party at Lost Bar</div>
+                <div>Party at <a href="https://www.facebook.com/lostbarkrakow/"
+                    target="_blank" rel="noopener noreferrer">Lost Bar</a></div>
                 <div class="note">Address:
                     <a href="https://goo.gl/maps/cgzSQnXJZc92"
                     target="_blank" rel="noopener noreferrer">Szewska 20</a>
@@ -110,7 +110,8 @@ image: ''
         <div class="schedule-item">
             <div class="schedule-time">21:00 - 02:00</div>
             <div>
-                <div>Afterparty at Strefa</div>
+                <div>Afterparty at <a href="https://www.facebook.com/StrefaKrakow/"
+                    target="_blank" rel="noopener noreferrer">Strefa</a></div>
                 <div class="note">Address:
                     <a href="https://goo.gl/maps/eAigseuTWPVFc78N8"
                     target="_blank" rel="noopener noreferrer">Św. Tomasza 31</a>
