@@ -42,7 +42,7 @@ image: ''
         <div class="schedule-item">
             <div class="schedule-time">12:30 - 16:00</div>
             <div>
-                <div>Skill sharing at <a href="https://www.facebook.com/KrakowDanceWorks-560257034499328/"target="_blank" rel="noopener noreferrer">Krakow Dance Works</a></div>
+                <div>Skill sharing at <a href="https://krakowdanceworks.com/" target="_blank" rel="noopener noreferrer">Krakow Dance Works</a></div>
                 <div class="note">Address:
                     <a href="https://g.page/KrakowDanceWorks?share"
                     target="_blank" rel="noopener noreferrer">Św. Gertrudy 8/1</a>
